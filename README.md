@@ -16,6 +16,15 @@ The **Hardware Management System** is a desktop-based application built using **
 
 ---
 
+## 🖼️ Interface Preview
+
+### Category Management
+![Category Management](screenshots/category-management.png)
+
+### Items Management
+![Items Management](screenshots/items-management.png)
+
+---
 ## 🛠 Tech Stack
 
 - **Language**: C#
